@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">DzikirDoApp</string>
+    <string name="title_application">Doa dan Dzikir App</string>
+    
+    <string-array name="gambar_article">
+        <item>@drawable/why_anstud</item>
+        <item>@drawable/takbiratul_ihram</item>
+        <item>@drawable/why_anstud</item>
+        <item>@drawable/takbiratul_ihram</item>
+        <item>@drawable/why_anstud</item>
+        <item>@drawable/takbiratul_ihram</item>
+        <item>@drawable/why_anstud</item>
+        <item>@drawable/takbiratul_ihram</item>
+    </string-array>
+
+    <string-array name="judul_article">
+        <item>Kenapa kita harus melakukannya?</item>
+        <item>ini adalah takbiratul ihram</item>
+    </string-array>
+
+    <string-array name="content_article">
+        <item>kita adalah manusia dan kita adalah makhluk sosial.....</item>
+        <item>yak ini takbiratul ihram, antum naikkan tangan andan sambil mengucapkan takbir....</item>
+    </string-array>
+</resources>
